@@ -1,4 +1,6 @@
 syntax:glob
+*.msi
+*.wxs
 *.obj
 *.exe
 *.exp
@@ -28,3 +30,4 @@ Thumbs.db
 [Tt]est[Rr]esults/
 _UpgradeReport_Files/
 _ReSharper.*/
+packages/
